@@ -35,7 +35,7 @@
         - Implemented credit systems and monitoring with Langfuse, driving 50% increase in paid users
         - Built cost-efficient GPU-powered indexer to extract graphs, images, headings, and sources from broker reports with 95% accuracy
         - Deployed Typesense Vector database with proper data backups and recovery systems
-        
+
     - title: AI Intern
       institution: Bobble AI
       year: November 2024 - February 2025
@@ -55,14 +55,14 @@
         - Agentic AI assistant with multi-tool calling and deep financial research capabilities
         - Integrated analysis across broker reports, earnings transcripts, and financial filings
         - Implemented credit systems and user monitoring infrastructure
-        
+
     - title: GPU-Powered Document Indexer
       year: 2024
       description:
         - Built indexer to extract visual data from broker reports with 95% accuracy
         - Dynamically scaled GPU instances for cost-efficient processing
         - Enabled analysts to search and integrate visual data across Indian stock companies
-        
+
     - title: Grabup
       year: 2022 - 2023
       description:

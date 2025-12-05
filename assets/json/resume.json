@@ -68,13 +68,7 @@
       "startDate": "2021-01-01",
       "endDate": "2025-01-01",
       "score": "",
-      "courses": [
-        "Data Structures and Algorithms",
-        "Machine Learning",
-        "Deep Learning",
-        "Database Management Systems",
-        "System Design"
-      ]
+      "courses": ["Data Structures and Algorithms", "Machine Learning", "Deep Learning", "Database Management Systems", "System Design"]
     }
   ],
   "awards": [
@@ -107,58 +101,31 @@
       "name": "AI and Machine Learning",
       "level": "Advanced",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "Machine Learning",
-        "Deep Learning",
-        "Generative AI",
-        "Agentic Systems",
-        "LangChain",
-        "LangGraph"
-      ]
+      "keywords": ["Machine Learning", "Deep Learning", "Generative AI", "Agentic Systems", "LangChain", "LangGraph"]
     },
     {
       "name": "Programming Languages",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "TypeScript",
-        "C++",
-        "SQL"
-      ]
+      "keywords": ["Python", "TypeScript", "C++", "SQL"]
     },
     {
       "name": "Web Development",
       "level": "Advanced",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": [
-        "Next.js",
-        "Fast API",
-        "RESTful APIs"
-      ]
+      "keywords": ["Next.js", "Fast API", "RESTful APIs"]
     },
     {
       "name": "Databases",
       "level": "Advanced",
       "icon": "fa-solid fa-database",
-      "keywords": [
-        "SQL",
-        "NoSQL",
-        "Elastic Search",
-        "Graph Database",
-        "Typesense",
-        "Pinecone"
-      ]
+      "keywords": ["SQL", "NoSQL", "Elastic Search", "Graph Database", "Typesense", "Pinecone"]
     },
     {
       "name": "Cloud and Infrastructure",
       "level": "Intermediate",
       "icon": "fa-solid fa-cloud",
-      "keywords": [
-        "AWS Cloud",
-        "GPU Infrastructure",
-        "Docker"
-      ]
+      "keywords": ["AWS Cloud", "GPU Infrastructure", "Docker"]
     }
   ],
   "languages": [
@@ -177,23 +144,12 @@
     {
       "name": "Artificial Intelligence",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "Agentic Systems",
-        "Generative AI",
-        "Financial Technology",
-        "Computer Vision",
-        "Natural Language Processing"
-      ]
+      "keywords": ["Agentic Systems", "Generative AI", "Financial Technology", "Computer Vision", "Natural Language Processing"]
     },
     {
       "name": "System Design",
       "icon": "fa-solid fa-diagram-project",
-      "keywords": [
-        "Scalable Infrastructure",
-        "GPU Optimization",
-        "Database Architecture",
-        "Vector Databases"
-      ]
+      "keywords": ["Scalable Infrastructure", "GPU Optimization", "Database Architecture", "Vector Databases"]
     }
   ],
   "references": [],
@@ -201,11 +157,7 @@
     {
       "name": "Stock GPT",
       "summary": "An agentic AI assistant with multi-tool calling capabilities that processes financial data from broker reports, earnings transcripts, and quarterly filings across 27+ SQL tables. Features credit systems and user monitoring with Langfuse.",
-      "highlights": [
-        "Achieved 50% increase in paid users",
-        "Multi-tool calling and deep research capabilities",
-        "Real-time financial data analysis"
-      ],
+      "highlights": ["Achieved 50% increase in paid users", "Multi-tool calling and deep research capabilities", "Real-time financial data analysis"],
       "startDate": "2024-01-01",
       "endDate": "",
       "url": ""
@@ -225,11 +177,7 @@
     {
       "name": "Grabup",
       "summary": "Founded and led a startup during college focused on building innovative solutions. Gained valuable experience in entrepreneurship, product development, and team leadership.",
-      "highlights": [
-        "Built and launched product from scratch",
-        "Learned valuable lessons in entrepreneurship",
-        "Managed cross-functional team"
-      ],
+      "highlights": ["Built and launched product from scratch", "Learned valuable lessons in entrepreneurship", "Managed cross-functional team"],
       "startDate": "2022-01-01",
       "endDate": "2023-01-01",
       "url": ""
