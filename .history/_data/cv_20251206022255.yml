@@ -1,0 +1,100 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Karan Kulshrestha
+    - name: Email
+      value: officialkarankulx@gmail.com
+    - name: Phone
+      value: +91 6397521755
+    - name: Location
+      value: India
+    - name: LinkedIn
+      value: linkedin.com/in/karankulshrestha
+    - name: Portfolio
+      value: karankulshrestha.github.io
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Bachelor of Technology in Computer Science and Information Technology
+      institution: Ajay Kumar Garg Engineering College
+      year: 2021 - 2025
+      description:
+        - Specialized in Computer Science and Information Technology
+        - Strong foundation in algorithms, data structures, and system design
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Full Stack AI Engineer
+      institution: Go India Advisor
+      year: January 2024 - Present
+      description:
+        - Designed and developed Stock GPT, an agentic AI assistant built with TypeScript and Next.js
+        - Integrated multi-tool calling and deep research across broker reports, earnings transcripts, and quarterly/annual filings
+        - Connected 27+ SQL tables across databases with credit systems and monitoring using Langfuse
+        - Achieved 50% increase in paid users through enhanced AI capabilities
+        - Built cost-efficient GPU-powered indexer to extract graphs, images, headings, and sources from broker reports with 95% accuracy
+        - Implemented dynamic GPU scaling for task-specific processing
+        - Deployed Typesense Vector database with proper data backups and recovery to manage costs
+        - Developed Python schedulers, data migration scripts, and backend APIs
+        
+    - title: AI Intern
+      institution: Bobble AI
+      year: November 2024 - February 2025
+      description:
+        - Built Comfy UI pipelines for content generation
+        - Tested and deployed various open-source models including Hunyuan, Ollama, SDXL, and Stability AI models
+        - Created web scrapers for collecting training data for YOLO models
+        - Reverse engineered open-source code for background removal techniques
+        - Worked with Python scripting for model deployment and testing
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      items:
+        - Python, TypeScript, SQL, C++
+    - title: AI and Machine Learning
+      items:
+        - Machine Learning, Deep Learning, Generative AI
+        - Agentic Systems, LangChain, LangGraph
+    - title: Web Development
+      items:
+        - Next.js, Fast API
+    - title: Databases
+      items:
+        - SQL, NoSQL, Graph Database, Elastic Search
+    - title: Cloud and Infrastructure
+      items:
+        - AWS Cloud, GPU Infrastructure, Vector Databases
+    - title: Core Competencies
+      items:
+        - Data Structures and Algorithms, System Design, Open Source Development
+
+- title: Achievements
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Won $3,400 in hackathon organized by DTDL (German Telekom Company)
+        - Achieved winning ranks in 7 hackathons
+    - year: 2023-2024
+      items:
+        - Open source contribution in Y-Combinator startup
+        - Founded startup "Grabup" during college
+
+- title: Projects and Open Source
+  type: time_table
+  contents:
+    - title: Stock GPT
+      year: 2024
+      description:
+        - Agentic AI assistant for stock market research and analysis
+        - Multi-tool integration with real-time data processing
+    - title: GPU-Powered Document Indexer
+      year: 2024
+      description:
+        - Efficient extraction system for financial documents
+        - 95% accuracy in data extraction with dynamic scaling

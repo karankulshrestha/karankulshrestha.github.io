@@ -2,33 +2,38 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: AI Engineer specializing in Generative AI and Agentic Systems
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile.png
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>officialkarankulx@gmail.com</p>
+    <p>linkedin.com/in/karankulshrestha</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Full Stack AI Engineer at Go India Advisor and a final-year Computer Science student at Ajay Kumar Garg Engineering College. My work focuses on building production-ready AI systems, particularly in the domains of generative AI and agentic systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am developing Stock GPT, an advanced agentic AI assistant that processes financial data from multiple sources including broker reports, earnings transcripts, and quarterly filings. The system integrates over 27 SQL tables and employs sophisticated multi-tool calling mechanisms. Through implementing robust credit systems and monitoring with Langfuse, we achieved a 50% increase in paid user engagement.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My technical expertise spans the full AI development lifecycle, from model deployment to infrastructure optimization. I have built cost-efficient GPU-powered systems for document processing, achieving 95% accuracy in extracting visual data from financial reports. I work extensively with technologies like TypeScript, Next.js, Python, and various vector databases including Typesense and Pinecone.
+
+During my internship at Bobble AI, I gained hands-on experience with content generation pipelines, deployed multiple opensource models including Hunyuan and SDXL, and developed data scraping infrastructure for training computer vision models. I also contributed to reverse engineering background removal techniques from opensource implementations.
+
+Beyond my professional work, I am an active participant in the tech community. I have won seven hackathons, including a $3,400 prize from DTDL, a German Telekom company. I have contributed to opensource projects at Y-Combinator backed startups and founded Grabup, a startup venture during my college years that taught me valuable lessons about entrepreneurship and building products from scratch.
+
+I am passionate about pushing the boundaries of what AI can achieve in practical applications, with a particular interest in agentic systems, financial technology, and scalable infrastructure design.

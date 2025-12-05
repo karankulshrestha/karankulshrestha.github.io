@@ -2,96 +2,111 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Karan Kulshrestha
+    - name: Email
+      value: officialkarankulx@gmail.com
+    - name: Phone
+      value: +91 6397521755
+    - name: Location
+      value: India
+    - name: LinkedIn
+      value: linkedin.com/in/karankulshrestha
+    - name: Portfolio
+      value: karankulx.hashnode.dev
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Technology in Computer Science and Information Technology
+      institution: Ajay Kumar Garg Engineering College
+      year: 2021 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Relevant Coursework Data Structures and Algorithms, Machine Learning, Deep Learning, Database Management, System Design
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Full Stack AI Engineer
+      institution: Go India Advisor
+      year: January 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Designed and developed Stock GPT, an agentic AI assistant using TypeScript and Next.js with multi-tool calling capabilities
+        - Integrated deep research across broker reports, earnings transcripts, quarterly and annual filings, and 27+ SQL tables
+        - Implemented credit systems and monitoring with Langfuse, driving 50% increase in paid users
+        - Built cost-efficient GPU-powered indexer to extract graphs, images, headings, and sources from broker reports with 95% accuracy
+        - Deployed Typesense Vector database with proper data backups and recovery systems
+        
+    - title: AI Intern
+      institution: Bobble AI
+      year: November 2024 - February 2025
       description:
-        - Description 1.
-        - Description 2.
+        - Developed Python scripts for building schedulers, data migrations, and backend APIs
+        - Created Comfy UI pipelines for content generation
+        - Tested and deployed opensource models including Hunyuan, Ollama, SDXL, and Stability AI models
+        - Built web scrapers for collecting training data for YOLO models
+        - Reverse engineered open source code for background removal techniques
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Stock GPT
+      year: 2024
+      description:
+        - Agentic AI assistant with multi-tool calling and deep financial research capabilities
+        - Integrated analysis across broker reports, earnings transcripts, and financial filings
+        - Implemented credit systems and user monitoring infrastructure
+        
+    - title: GPU-Powered Document Indexer
+      year: 2024
+      description:
+        - Built indexer to extract visual data from broker reports with 95% accuracy
+        - Dynamically scaled GPU instances for cost-efficient processing
+        - Enabled analysts to search and integrate visual data across Indian stock companies
+        
+    - title: Grabup
+      year: 2022 - 2023
+      description:
+        - Founded and led a startup during college
+        - Gained valuable experience in entrepreneurship and product development
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming Languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python, TypeScript, C++, SQL
+    - title: AI and Machine Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Machine Learning, Deep Learning, Generative AI, Agentic Systems
+        - LangChain, LangGraph, Hugging Face, Ollama
+    - title: Web Development
+      items:
+        - Next.js, Fast API, RESTful APIs
+    - title: Databases
+      items:
+        - SQL, NoSQL, Elastic Search, Graph Database, Typesense, Pinecone
+    - title: Cloud and DevOps
+      items:
+        - AWS Cloud, GPU Infrastructure, Docker
+    - title: Tools and Frameworks
+      items:
+        - Langfuse, Comfy UI, YOLO, SDXL, Stability AI
 
-- title: Other Interests
+- title: Achievements
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Won $3,400 in hackathon organized by DTDL (German Telekom Company)
+        - Secured winning ranks in 7 different hackathons
+        - Contributed to open source project at a Y-Combinator backed startup
+    - year: 2023
+      items:
+        - Founded Grabup, a college startup venture
+
+- title: Certifications and Additional Experience
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Open Source Contributor to Y-Combinator startup
+    - Experience with model deployment and optimization
+    - Expertise in data scraping and preprocessing pipelines
