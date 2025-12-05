@@ -7,48 +7,48 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/karankulshrestha.github.io/";
+      window.location.href = "/";
     },
   },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/karankulshrestha.github.io/blog/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/karankulshrestha.github.io/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of my cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/karankulshrestha.github.io/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
           description: "These are my growing repositories",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/karankulshrestha.github.io/repositories/";
+            window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "cv",
           description: "Full Stack AI Engineer specializing in Generative AI, Agentic Systems, and Scalable Infrastructure.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/karankulshrestha.github.io/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/karankulshrestha.github.io/books/the_godfather/";
+              window.location.href = "/books/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -56,7 +56,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/karankulshrestha.github.io/news/announcement_2/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -86,7 +86,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/karankulshrestha.github.io/assets/pdf/karankul_resume.pdf", "_blank");
+          window.open("/assets/pdf/karankul_resume.pdf", "_blank");
         },
       },{
       id: 'light-theme',
